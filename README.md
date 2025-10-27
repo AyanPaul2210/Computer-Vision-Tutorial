@@ -36,8 +36,6 @@ It includes **12 weeks of detailed presentations** covering the fundamental and 
 
 ## 📂 Repository Structure
 
-```
-
 📁 Computer-Vision-Tutorials/
 ├── Week1_ImageGeometry.pptx
 ├── Week2_ProjectiveSpace.pptx
@@ -53,14 +51,6 @@ It includes **12 weeks of detailed presentations** covering the fundamental and 
 ├── Week12_DeepLearningCV.pptx
 ├── Week13_Revision.pptx
 └── 📁 Computer-Vision-Codes/
-├── ImageProcessing.ipynb
-├── HomographyEstimation.ipynb
-├── StereoDepth.ipynb
-├── FeatureMatching.ipynb
-├── ColorModels.ipynb
-└── CNN_for_Vision.ipynb
-
-````
 
 ---
 
