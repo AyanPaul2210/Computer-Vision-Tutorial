@@ -100,4 +100,4 @@ Attribution is appreciated if you reuse, modify, or cite this material.
 
 **Ayan Paul**
 NPTEL Teaching Assistant (Autumn 2025–26) | PMRF Fellow
-[LinkedIn](https://www.ayan-paul-367839259) • [Website](https://sites.google.com/view/ayans-agribot)
+[LinkedIn](www.ayan-paul-367839259) • [Website](https://sites.google.com/view/ayans-agribot)
