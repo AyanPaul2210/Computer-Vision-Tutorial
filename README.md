@@ -99,5 +99,5 @@ Attribution is appreciated if you reuse, modify, or cite this material.
 ### 👨‍🏫 Author
 
 **Ayan Paul**
-NPTEL Teaching Assistant (Spring 2025–26) | PMRF Fellow
+NPTEL Teaching Assistant (Autumn 2025–26) | PMRF Fellow
 [LinkedIn](https://www.ayan-paul-367839259) • [Website](https://sites.google.com/view/ayans-agribot)
