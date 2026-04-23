@@ -10,13 +10,13 @@ Ideal for hands-on, curriculum-based learning.
 ## 📘 Overview
 
 This repository contains a comprehensive 13-week tutorial series on **Computer Vision**, curated in alignment with the **NPTEL course (noc25-cs143)** structure.  
-It includes **12 weeks of detailed presentations** covering the fundamental and advanced CV topics, followed by a **revision module**, along with **well-documented Python code examples** for each week’s concepts.
+It includes 12 weeks of detailed presentations covering the fundamental and advanced CV topics, followed by a **revision module**, along with **well-documented Python code examples** for each week’s concepts.
 
 ---
 
 ## 📚 What’s Inside
 
-- 🎓 **Week-wise Presentations (PPTs)**  
+- 🎓 Week-wise Presentations (PPTs) 
   Each week focuses on a specific theme in Computer Vision, including:
   - Image formation and geometry  
   - Camera models and calibration  
@@ -26,10 +26,10 @@ It includes **12 weeks of detailed presentations** covering the fundamental and 
   - Color and range imaging  
   - Machine learning and deep learning in CV  
 
-- 🧠 **Revision Week**  
+- 🧠 Revision Week  
   A final module consolidating all core equations, derivations, and conceptual highlights from previous weeks.
 
-- 💻 **Python Code Files**  
+- 💻 Python Code Files  
   Hands-on **Jupyter Notebooks** demonstrating each topic using intuitive visualizations, step-by-step computation, and sample image datasets.
 
 ---
@@ -56,8 +56,8 @@ It includes **12 weeks of detailed presentations** covering the fundamental and 
 
 ## ✅ Key Features
 
-- Based on a real **NPTEL Computer Vision** course structure  
-- Designed for **students, educators, and self-learners**  
+- Based on a real NPTEL Computer Vision course structure  
+- Designed for students, educators, and self-learners  
 - Combines **theory and implementation** in a structured flow  
 - Offers **intuitive visualizations** of geometric and learning-based vision methods  
 - Includes **ready-to-run Jupyter notebooks** for practical understanding  
@@ -66,13 +66,13 @@ It includes **12 weeks of detailed presentations** covering the fundamental and 
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Computer-Vision-Tutorials.git
    cd Computer-Vision-Tutorials/Computer-Vision-Codes
 ````
 
-2. **Launch Jupyter Notebook:**
+2. Launch Jupyter Notebook:
 
    ```bash
    jupyter notebook
@@ -91,13 +91,13 @@ All supporting notes, slides, and open-source implementations are available on m
 
 ## 📝 License
 
-This repository is shared for **educational and academic purposes**.
+This repository is shared for educational and academic purposes.
 Attribution is appreciated if you reuse, modify, or cite this material.
 
 ---
 
 ### 👨‍🏫 Author
 
-**Ayan Paul**
+Ayan Paul
 NPTEL Teaching Assistant (Autumn 2025–26) | PMRF Fellow
 [LinkedIn](www.ayan-paul-367839259) • [Website](https://sites.google.com/view/ayans-agribot)
